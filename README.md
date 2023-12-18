@@ -21,7 +21,7 @@ Installation and Setup
 Clone the repository:
 
 bash
-Copy code
+Copy code 
 git clone https://github.com/yourusername/ayurglowcare.git
 Navigate to the project directory:
 
